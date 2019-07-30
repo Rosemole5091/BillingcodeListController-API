@@ -1,0 +1,14 @@
+C:\Users\user\source\Repos\BillingCode\BillingCode\bin\Debug\netcoreapp2.1\BillingCode.deps.json
+C:\Users\user\source\Repos\BillingCode\BillingCode\bin\Debug\netcoreapp2.1\BillingCode.runtimeconfig.json
+C:\Users\user\source\Repos\BillingCode\BillingCode\bin\Debug\netcoreapp2.1\BillingCode.runtimeconfig.dev.json
+C:\Users\user\source\Repos\BillingCode\BillingCode\bin\Debug\netcoreapp2.1\BillingCode.dll
+C:\Users\user\source\Repos\BillingCode\BillingCode\obj\Debug\netcoreapp2.1\BillingCode.csprojAssemblyReference.cache
+C:\Users\user\source\Repos\BillingCode\BillingCode\obj\Debug\netcoreapp2.1\BillingCode.csproj.CoreCompileInputs.cache
+C:\Users\user\source\Repos\BillingCode\BillingCode\obj\Debug\netcoreapp2.1\BillingCode.RazorAssemblyInfo.cache
+C:\Users\user\source\Repos\BillingCode\BillingCode\obj\Debug\netcoreapp2.1\BillingCode.RazorAssemblyInfo.cs
+C:\Users\user\source\Repos\BillingCode\BillingCode\obj\Debug\netcoreapp2.1\BillingCode.AssemblyInfoInputs.cache
+C:\Users\user\source\Repos\BillingCode\BillingCode\obj\Debug\netcoreapp2.1\BillingCode.AssemblyInfo.cs
+C:\Users\user\source\Repos\BillingCode\BillingCode\obj\Debug\netcoreapp2.1\BillingCode.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\Repos\BillingCode\BillingCode\bin\Debug\netcoreapp2.1\BillingCode.pdb
+C:\Users\user\source\Repos\BillingCode\BillingCode\obj\Debug\netcoreapp2.1\BillingCode.dll
+C:\Users\user\source\Repos\BillingCode\BillingCode\obj\Debug\netcoreapp2.1\BillingCode.pdb
